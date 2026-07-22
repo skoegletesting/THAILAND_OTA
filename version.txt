@@ -1,0 +1,6 @@
+version=0.0.2
+built=2026-04-09 16:01:10
+board=ESP32-S3
+flash=8MB
+partition=custom
+compiler=Skoegle Firmware Compiler v1.0.0
